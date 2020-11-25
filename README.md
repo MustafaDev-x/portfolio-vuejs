@@ -1,4 +1,4 @@
-##portfolio-vuejs
+## portfolio-vuejs
 
 ## Project setup
 ```
